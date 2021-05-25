@@ -1,0 +1,67 @@
+body{
+
+	text-align: justify;
+
+}
+
+h1 {
+
+	font-family: fantasy;
+	font-size: 50px;
+	color: red;
+
+}
+
+p {
+
+	font-family: arial;
+	font-size: 15px;
+	color: 
+
+}
+
+.configc {
+
+	width: 100%;
+}
+
+h2 {
+
+	background-color: black;
+	color: lime;
+	font-size: 30px;
+}
+
+.imgservc {
+
+	width: 15%;
+
+}
+
+.imgclient {
+
+	width: 15%;
+}
+
+.imgpar {
+
+	width: 15%;
+
+}
+
+.imgequ {
+
+	width: 15%;
+}
+
+.imgcon {
+
+	width: 40px;	
+}
+
+footer {
+
+text-align: justify;
+color: red;
+
+}
